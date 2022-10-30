@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetRequestAPI",
+  "simulationId": "getrequestapi",
+  "start": 1667110996833,
+  "description": "test for get Request",
+  "scenarios": ["get user"],
+  "assertions": [
+
+  ]
+}
